@@ -2,26 +2,26 @@
 
 You can try Psychophysics experiments on the web.
 
-https://shigeodayo.github.io/PsychophysicsWebExp/
+https://keigom.github.io/PsychophysicsWebExp/
 
-The objective of the experiments is to estimate the PSE (and JND) of perceived lightness from two different colors.
+The objective of the experiments is to estimate the PSE (and JND) of perceived lightness for two different colors.
 
-The saturation of those two colors are the same, but the hue and lightness are different.
+The saturation of those two colors is the same, but the hue and lightness are different.
 
-Your task is to find the subjective equally lightness of both colors.
+Your task is to find the subjective equal lightness of both colors.
 
 ## Task
 ### Method of Limit/Adjustment
 Adjust the lightness of the sample until you feel the lightness of the reference and the sample are the same.
 
-In total, you will repeat this task 4 times with different initial lightness.
+In total, you will repeat this task four times with different initial lightness.
 
 ### Method of Constant
-Select which do you feel lighter reference or sample.
+Select which reference or sample you feel is lighter.
 
-There are 12 different lightness of the sample.
+There are 12 different lightnesses in the sample.
 
-Each sample has 4 repetitions.
+Each sample has four repetitions.
 
 ## CSV values
 ### Method of Limit
